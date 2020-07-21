@@ -6,3 +6,4 @@ There are two levels: Easy and Omega. The first to reach 10 points wins the game
 To play the game download and run the exectuable file. To view the code down load and import the project to Eclipse. To view only the code, move to the src folder inside the Code folder.
 
 Made by Luvneesh Mugrai
+[![Run on Repl.it](https://repl.it/badge/github/LuvneeshM/Ping-Pong)](https://repl.it/github/LuvneeshM/Ping-Pong)
